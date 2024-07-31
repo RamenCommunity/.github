@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Hi</h1>
-<div style="text-align: center;">
+<h1 align="center">Hi</h1>
+<div align="center">
 <img src="assets/nerd.png">
 </div>
 
